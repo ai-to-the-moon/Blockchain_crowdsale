@@ -30,7 +30,7 @@ With Ganache running on your computer and the Metamask extension, update the Met
 
 ![pic](Screenshots/screenshot_Ganache_settings.PNG)
 
-After selecting the CrowdsaleDeployer smart contract and specifying parameters for name, symbol, and wallet, you can click 'deploy' to deploy the contract:
+After selecting the CrowdsaleDeployer smart contract and specifying parameters for name, symbol, and wallet, you can click 'transact' to deploy the contract:
 
 ![pic](Screenshots/screenshot_crowdsale_deployment.PNG)
 
